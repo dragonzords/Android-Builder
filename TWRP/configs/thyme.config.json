@@ -1,15 +1,15 @@
 [
     {
         "OrangeFox": {
-            "Repo": "https://gitlab.com/OrangeFox/sync.git",
+            "Repo": "https://github.com/SHRP/manifest.git",
             "Branch": "12.1"
         },
         "Device": {
-            "Repo": "https://codeberg.org/DogDayAndroid/twrp_device_xiaomi_thyme",
-            "Branch": "android-13",
-            "Location": "device/xiaomi/thyme",
-            "DeviceName": "thyme",
-            "Makefile": "twrp_thyme",
+            "Repo": "https://github.com/BitsAndBytes-dev/twrp_device_redmi_begonia.git",
+            "Branch": "11",
+            "Location": " twrp_device_redmi_begonia",
+            "DeviceName": "begonia",
+            "Makefile": "twrp_begonia",
             "BootPartition": "boot"
         }
     }
