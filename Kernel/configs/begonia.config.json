@@ -10,7 +10,7 @@
     "toolchains": [
       {
         "name": "proton-clang",
-        "repo": "https://github.com/kdrag0n/proton-clang",
+        "repo": "https://github.com/kdrag0n/proton-clang.git",
         "branch": "master",
         "binaryEnv": ["./bin"]
       },
